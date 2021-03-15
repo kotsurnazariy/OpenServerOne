@@ -1,0 +1,63 @@
+﻿
+OPEN SERVER PANEL
+Панель управления программной средой для веб-разработки
+
+Лицензионное Соглашение
+
+Эта программа защищена законами и международными соглашениям
+и об авторском праве. Исключительные права на использование
+этой программы принадлежат её автору(ам). Программой можно
+пользоваться бесплатно, без лицензионных отчислений
+неограниченное время, включая неограниченное право на
+использование, копирование, публикацию, распространение,
+сублицензирование и/или продажу копий программы. Программа
+может включаться в состав платных сборников, помещаться на
+сайтах, отличных от сайта правообладателя.
+
+Данное программное обеспечение предоставляется «как есть»,
+без каких-либо гарантий, явно выраженных или подразумеваемых,
+включая, но не ограничиваясь гарантиями товарной пригодности,
+соответствия по его конкретному назначению и отсутствия
+нарушений прав. Ни при каких обстоятельствах правообладатель
+не несёт обязательств перед пользователем за любой вред,
+физический или коммерческий, нанесённый данной программой,
+включая упущенную прибыль, потерю данных, ущерб репутации
+или другой побочный или косвенный вред, произошедший из-за
+использования или неспособности использования этой программы.
+
+Действие этого лицензионного соглашения и авторских прав не
+распространяется на другие программы и их компоненты,
+которые поставляются вместе с дистрибутивом.
+
+------------------------------------------------------------
+
+OPEN SERVER PANEL
+Control panel for software environment for web development
+
+License Agreement
+
+This program is protected by laws and international
+copyright treaties. The exclusive rights to use this program
+belong to its author(s). The program can be used free of
+charge, royalty-free unlimited time, including unlimited
+right to use, copying, publishing, distributing,
+sublicensing and/or selling copies of the program. The
+program can be included in paid collections, placed on sites
+other than the site of the copyright holder.
+
+This software is provided "as is" without any warranties,
+express or implied, including but not limited to guarantees
+of merchantability, conformity for its specific purpose and
+the absence of violations of rights. Under no circumstances
+will the copyright holder bears obligations to the user for
+any harm, physical or commercial caused by this program,
+including lost profits, loss of data, damage to reputation
+or other collateral or consequential harm, occurred due to
+the use or inability to use this program.
+
+This license agreement and copyright does not apply to
+other programs and their components that come with the
+distribution kit.
+
+------------------------------------------------------------
+© 2010-2021 ospanel.io

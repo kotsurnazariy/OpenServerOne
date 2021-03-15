@@ -1,0 +1,21 @@
+[Sun Mar 14 21:02:29.610396 2021] [ssl:warn] [pid 1120:tid 532] AH01909: wp.ua:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 14 21:02:29.611395 2021] [ssl:warn] [pid 1120:tid 532] AH01909: test.ua:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 14 21:02:29.611395 2021] [ssl:warn] [pid 1120:tid 532] AH01909: moviclean.ua:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 14 21:02:29.612391 2021] [ssl:warn] [pid 1120:tid 532] AH01909: default:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 14 21:02:29.945187 2021] [ssl:warn] [pid 1120:tid 532] AH01909: wp.ua:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 14 21:02:30.009028 2021] [ssl:warn] [pid 1120:tid 532] AH01909: test.ua:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 14 21:02:30.010026 2021] [ssl:warn] [pid 1120:tid 532] AH01909: moviclean.ua:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 14 21:02:30.010026 2021] [ssl:warn] [pid 1120:tid 532] AH01909: default:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 14 21:02:30.054905 2021] [mpm_winnt:notice] [pid 1120:tid 532] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.0.2s configured -- resuming normal operations
+[Sun Mar 14 21:02:30.054905 2021] [mpm_winnt:notice] [pid 1120:tid 532] AH00456: Apache Lounge VC14 Server built: Aug 12 2019 10:48:01
+[Sun Mar 14 21:02:30.054905 2021] [core:notice] [pid 1120:tid 532] AH00094: Command line: 'D:\\openserver\\modules\\http\\Apache_2.4-PHP_7.0-7.1\\bin\\httpd.exe -d D:/OpenServer/modules/http/Apache_2.4-PHP_7.0-7.1 -f d:\\openserver\\modules\\http\\Apache_2.4-PHP_7.0-7.1\\conf\\httpd.conf'
+[Sun Mar 14 21:02:30.056901 2021] [mpm_winnt:notice] [pid 1120:tid 532] AH00418: Parent: Created child process 5488
+[Sun Mar 14 21:02:30.779395 2021] [ssl:warn] [pid 5488:tid 496] AH01909: wp.ua:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 14 21:02:30.780393 2021] [ssl:warn] [pid 5488:tid 496] AH01909: test.ua:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 14 21:02:30.780393 2021] [ssl:warn] [pid 5488:tid 496] AH01909: moviclean.ua:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 14 21:02:30.781389 2021] [ssl:warn] [pid 5488:tid 496] AH01909: default:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 14 21:02:30.960988 2021] [ssl:warn] [pid 5488:tid 496] AH01909: wp.ua:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 14 21:02:30.960988 2021] [ssl:warn] [pid 5488:tid 496] AH01909: test.ua:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 14 21:02:30.960988 2021] [ssl:warn] [pid 5488:tid 496] AH01909: moviclean.ua:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 14 21:02:30.961987 2021] [ssl:warn] [pid 5488:tid 496] AH01909: default:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 14 21:02:31.012849 2021] [mpm_winnt:notice] [pid 5488:tid 496] AH00354: Child: Starting 150 worker threads.

@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
+	"fallback_encoding": "Cyrillic (Windows 1251)",
+	"highlight_line": false,
+	"ignored_packages":
+	[
+		"Vintage",
+		"zzz A File Icon zzz"
+	],
+	"one_dark_native_title_bar": true,
+	"one_dark_show_scroll_tabs": true,
+	"one_dark_show_tabs_dropdown": true,
+	"scroll_speed": 0,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "One Dark.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "true"
+}
