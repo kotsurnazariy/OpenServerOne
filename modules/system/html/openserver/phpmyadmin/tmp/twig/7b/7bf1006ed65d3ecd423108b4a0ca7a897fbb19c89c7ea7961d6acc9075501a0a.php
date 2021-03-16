@@ -232,6 +232,6 @@ class __TwigTemplate_c6dcb70b5b104738ff4dc3b24d075f63107966b6b54e82ae8724aaf9206
 
     public function getSourceContext()
     {
-        return new Source("", "header.twig", "D:\\OpenServer\\modules\\system\\html\\openserver\\phpmyadmin\\templates\\header.twig");
+        return new Source("", "header.twig", "D:\\OpenServerOne\\modules\\system\\html\\openserver\\phpmyadmin\\templates\\header.twig");
     }
 }

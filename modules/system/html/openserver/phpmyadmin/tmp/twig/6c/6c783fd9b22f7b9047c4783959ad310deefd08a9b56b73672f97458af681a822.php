@@ -81,6 +81,6 @@ class __TwigTemplate_909ea11140445f70a4d9128ecc887b82b0aafe054bef285b262dc5e7a58
 
     public function getSourceContext()
     {
-        return new Source("", "select_all.twig", "D:\\OpenServer\\modules\\system\\html\\openserver\\phpmyadmin\\templates\\select_all.twig");
+        return new Source("", "select_all.twig", "D:\\OpenServerOne\\modules\\system\\html\\openserver\\phpmyadmin\\templates\\select_all.twig");
     }
 }

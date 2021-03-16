@@ -88,6 +88,6 @@ class __TwigTemplate_0304654cdc2e317c18d5c8be5514371698e1ddf35bf602d6db885688639
 
     public function getSourceContext()
     {
-        return new Source("", "console/toolbar.twig", "D:\\OpenServer\\modules\\system\\html\\openserver\\phpmyadmin\\templates\\console\\toolbar.twig");
+        return new Source("", "console/toolbar.twig", "D:\\OpenServerOne\\modules\\system\\html\\openserver\\phpmyadmin\\templates\\console\\toolbar.twig");
     }
 }

@@ -108,6 +108,6 @@ class __TwigTemplate_75b6a157235fa030d02218a52b90c222e93b69d83067fd9833565c2650a
 
     public function getSourceContext()
     {
-        return new Source("", "database/structure/index.twig", "D:\\OpenServer\\modules\\system\\html\\openserver\\phpmyadmin\\templates\\database\\structure\\index.twig");
+        return new Source("", "database/structure/index.twig", "D:\\OpenServerOne\\modules\\system\\html\\openserver\\phpmyadmin\\templates\\database\\structure\\index.twig");
     }
 }

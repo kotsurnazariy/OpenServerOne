@@ -104,6 +104,6 @@ class __TwigTemplate_280fb83e66a18028a075f5fddcac55c41ff559c5c84c535202f4e70d3e1
 
     public function getSourceContext()
     {
-        return new Source("", "footer.twig", "D:\\OpenServer\\modules\\system\\html\\openserver\\phpmyadmin\\templates\\footer.twig");
+        return new Source("", "footer.twig", "D:\\OpenServerOne\\modules\\system\\html\\openserver\\phpmyadmin\\templates\\footer.twig");
     }
 }

@@ -94,6 +94,6 @@ class __TwigTemplate_341c80a3018bfebd37945bc28df27992020c09faacd045e3527302e7b9a
 
     public function getSourceContext()
     {
-        return new Source("", "console/query_action.twig", "D:\\OpenServer\\modules\\system\\html\\openserver\\phpmyadmin\\templates\\console\\query_action.twig");
+        return new Source("", "console/query_action.twig", "D:\\OpenServerOne\\modules\\system\\html\\openserver\\phpmyadmin\\templates\\console\\query_action.twig");
     }
 }

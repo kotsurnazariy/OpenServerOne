@@ -86,6 +86,6 @@ class __TwigTemplate_ba17dab44b59b81145ef001bb058277b41fec63f77ab649946854eb96f2
 
     public function getSourceContext()
     {
-        return new Source("", "navigation/tree/path.twig", "D:\\OpenServer\\modules\\system\\html\\openserver\\phpmyadmin\\templates\\navigation\\tree\\path.twig");
+        return new Source("", "navigation/tree/path.twig", "D:\\OpenServerOne\\modules\\system\\html\\openserver\\phpmyadmin\\templates\\navigation\\tree\\path.twig");
     }
 }

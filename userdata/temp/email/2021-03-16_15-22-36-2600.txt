@@ -1,0 +1,25 @@
+To: kotsurnazariy@gmail.com
+Subject: =?UTF-8?B?0J3QvtCy0LjQuSDRgdCw0LnRgiBXb3JkUHJlc3M=?=
+X-PHP-Originating-Script: 0:PHPMailer.php
+Date: Tue, 16 Mar 2021 13:22:35 +0000
+From: WordPress <wordpress@ukrart.ua>
+Message-ID: <xDgQduHkmO3OnP2oVxxOd1slB4VWVlfxTSW0wpmqiI@ukrart.ua>
+X-Mailer: PHPMailer 6.3.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Ваш новий WordPress сайт успішно встановлено на:
+
+http://ukrart.ua
+
+Ви можете увійти до облікового запису адміністратора, використовуючи наступну інформацію:
+
+Ім’я Користувача: admin
+Пароль: Пароль, обраний вами під час інсталяції.
+Заходити звідси: http://ukrart.ua/wp-login.php
+
+Ми сподіваємось що ви насолоджуєтесь своїм новим сайтом. Дякуємо!
+
+--Команда WordPress
+https://uk.wordpress.org/

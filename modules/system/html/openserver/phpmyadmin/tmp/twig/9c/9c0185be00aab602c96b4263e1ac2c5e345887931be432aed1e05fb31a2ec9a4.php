@@ -274,6 +274,6 @@ class __TwigTemplate_513021bcc0f1f6590d81a8faa8b8695eaa831c88b4ab131c2fbb92fa6e5
 
     public function getSourceContext()
     {
-        return new Source("", "navigation/main.twig", "D:\\OpenServer\\modules\\system\\html\\openserver\\phpmyadmin\\templates\\navigation\\main.twig");
+        return new Source("", "navigation/main.twig", "D:\\OpenServerOne\\modules\\system\\html\\openserver\\phpmyadmin\\templates\\navigation\\main.twig");
     }
 }
